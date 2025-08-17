@@ -65,7 +65,7 @@ Built a comprehensive risk assessment system for **203K+ Bitcoin transactions**.
 ---
 
 ## 🔗 Links
-- [Kaggle Notebook: Bitcoin Fraud Detection (XGBoost & Network Analysis)](https://www.kaggle.com/code/oxspaceman/bitcoin-fraud-detection-xgboost-network-analysis)  
+- [Kaggle Notebook: Bitcoin Fraud Detection (XGBoost & Network Analysis)](https://www.kaggle.com/code/oxspaceman/bitcoin-fraud-money-laundering-detection)
 - [Dataset: Elliptic Bitcoin Dataset](https://www.kaggle.com/ellipticco/elliptic-data-set)
 
 ---

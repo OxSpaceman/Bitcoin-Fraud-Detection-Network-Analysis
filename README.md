@@ -1,6 +1,7 @@
 Bitcoin-Fraud-Detection-Network-Analysis
 🔍 Bitcoin Fraud Detection: XGBoost + Network Analysis
 My data science bootcamp capstone project. Detecting fraudulent Bitcoin transactions using machine learning and graph network analysis.
+
 📊 Results
 
 F1 Score: 0.779
@@ -9,6 +10,7 @@ Algorithm: XGBoost Classifier + Network Analysis
 High Risk Detected: 7,249 transactions (>80% fraud probability)
 
 🚀 Project Overview
+
 This project combines advanced machine learning with network graph analysis to detect Bitcoin fraud using the Elliptic Dataset. Built a comprehensive risk assessment system for 203K+ Bitcoin transactions.
 
 Key Features:
@@ -21,6 +23,7 @@ Real-time fraud probability assessment
 
 
 📈 Methodology
+
 Data Exploration & Preprocessing
 
 Elliptic Dataset: 203,769 transactions with 166 features
@@ -58,7 +61,7 @@ Graph analysis enhances traditional ML predictions significantly
 
 🔗 Links
 
-Kaggle Notebook: Bitcoin Fraud Detection XGBoost + Network Analysis
+Kaggle Notebook: [Bitcoin Fraud Detection (XGBoost & Network Analysis)](https://www.kaggle.com/code/oxspaceman/bitcoin-fraud-detection-xgboost-network-analysis)
 Dataset: Elliptic Bitcoin Dataset
 
 🚀 Future Improvements
@@ -70,7 +73,9 @@ Dataset: Elliptic Bitcoin Dataset
  API development for production deployment
 
 📝 About
+
 This is my final project from data science bootcamp. I used machine learning and network analysis to catch Bitcoin fraud transactions and uncover money laundering networks used by organized crime groups - a real problem in cryptocurrency world.
+
 Status: Completed ✅
 Score:  ROC AUC: 0.977
 Impact: 157K+ transactions risk-assessed, 7,249 high-risk flagged

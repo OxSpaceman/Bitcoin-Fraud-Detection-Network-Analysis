@@ -8,7 +8,6 @@ Detecting fraudulent Bitcoin transactions using machine learning and graph netwo
 
 ## 📊 Results
 
-- **F1 Score**: 0.779  
 - **ROC AUC**: 0.977  
 - **Algorithm**: XGBoost Classifier + Network Analysis  
 - **High Risk Detected**: 7,249 transactions (>80% fraud probability)

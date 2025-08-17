@@ -1,4 +1,4 @@
-# Bitcoin-Fraud-Detection-Network-Analysis 🔍
+# Bitcoin Fraud & Money Laundering Detection 
 
 **Bitcoin Fraud Detection: XGBoost + Network Analysis**  
 My data science bootcamp capstone project.  
